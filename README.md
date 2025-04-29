@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ ] There are three labels that contain my name, university name and aspirational job.
+- [ ] Clicking on the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -23,10 +23,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 TikTok:
 - ability to save videos
 - Deleting messages
+Netflix:
+- personalized recommendations
+- ability to download content
 Instagram:
-- 
-
+- Ability to change messages background
+- Deleting messages
+- Liking Stories
 ## Notes
+App idea: 
 
 Describe any challenges encountered while building the app.
 
