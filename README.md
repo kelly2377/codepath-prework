@@ -14,7 +14,9 @@ The following **required** functionality is completed:
 - [ ] Clicking on the button changes the screen color to a random color
  
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="Y7e98N6" data-context="false" ><a href="//imgur.com/Y7e98N6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+<blockquote class="imgur-embed-pub" lang="en" data-id="Y7e98N6" data-context="false" ><a href="//imgur.com/Y7e98N6">
+</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+https://imgur.com/Y7e98N6 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
