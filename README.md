@@ -32,9 +32,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Liking Stories
   
 ## Notes
-App idea: 
-
 Describe any challenges encountered while building the app.
+Difficulties in running the application, would take a long time to load. 
+
+### App Idea: 
+The app would be used when traveling. If a person is traveling and they want to know popular places that they can visit based on the location, they would get suggested places to visit. The places would range from free places to visit to places that would require money to get in. Some features I would like to implement would be the ability to save favorite/suggested locations. As well as being able to filter the locations they can visit by cost. Also, the suggested places that they can visit can be in different categories where they would click the type of place they would want to visit whether it's grouped by food, museum, etc.
 
 ## License
 
