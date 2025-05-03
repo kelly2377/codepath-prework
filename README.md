@@ -16,10 +16,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 ![Animated GIF](https://i.imgur.com/Y7e98N6.gif)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
 ### TikTok:
 - ability to save videos
